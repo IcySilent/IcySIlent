@@ -11,7 +11,7 @@ If you need some starting stuff with gameservers, i leaked a gameserver thats go
 Releasing My own gameserver soon :)
 
 - [13.40 GameServer](https://github.com/IcySilent/Volcano-13.40)
-- [Custom Gameserver](Soon.....)
+- [Custom Gameserver Soon]()
 
 ## socials 
 
