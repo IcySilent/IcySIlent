@@ -5,6 +5,7 @@
 - devloper at frost
 
 Frost Server ↓
+
 ![Discord Shield](https://discordapp.com/api/guilds/1079224602582069399/widget.png?style=shield)
 
 ## useful stuff
