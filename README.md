@@ -15,4 +15,4 @@ Releasing My own gameserver soon :)
 
 ## socials 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1211351621951299658?idleMessage=i%20appear%20offline%20alot)](https://discord.com/users/1211351621951299658)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1211351621951299658?idleMessage=i%20appear%20idle%20alot)](https://discord.com/users/1211351621951299658)
