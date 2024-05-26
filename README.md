@@ -1,16 +1,18 @@
-## Hi there 👋
+# about me
 
-<!--
-**IcySilent/IcySIlent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- devlope backend's and gameserver's
+- love's to dev for people
+- devloper at frost
+  
+[![Discord Banner 2](https://cdn.discordapp.com/attachments/1221314644925349898/1239546151716257862/ddddd_00000.png)](https://discord.gg/frostfn)
 
-Here are some ideas to get you started:
+## useful stuff
+If you need some starting stuff with gameservers, i leaked a gameserver thats good :)
+Releasing My own gameserver soon :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [13.40 GameServer](https://github.com/IcySilent/Volcano-13.40)
+- [13.40 GameServer](Soon.....)
+
+## socials 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1211351621951299658?idleMessage=i%20appear%20offline%20alot)](https://discord.com/users/1211351621951299658)
