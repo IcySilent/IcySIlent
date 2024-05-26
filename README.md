@@ -15,7 +15,7 @@ Releasing My own gameserver soon :)
 
 
 - [13.40 GameServer](https://github.com/IcySilent/Volcano-13.40)
-- [Custom Gameserver Soon]()
+- [Custom Gameserver](https://github.com/IcySilent/Frost)
 
 
 ## socials 
