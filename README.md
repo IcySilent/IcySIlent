@@ -4,7 +4,7 @@
 - love's to dev for people
 - devloper at frost
   
-[![Discord Banner 2](https://cdn.discordapp.com/attachments/1221314644925349898/1239546151716257862/ddddd_00000.png)](https://discord.gg/frostfn)
+[![Discord Banner 2](https://discordapp.com/api/guilds/1079224602582069399/widget.png?style=shield)](https://discord.gg/frostfn)
 
 ## useful stuff
 If you need some starting stuff with gameservers, i leaked a gameserver thats good :)
