@@ -3,8 +3,9 @@
 - devlope backend's and gameserver's
 - love's to dev for people
 - devloper at frost
-  
-[![Discord Banner 2](https://discordapp.com/api/guilds/1079224602582069399/widget.png?style=shield)](https://discord.gg/frostfn)
+
+Frost Server ↓
+![Discord Shield](https://discordapp.com/api/guilds/1079224602582069399/widget.png?style=shield)
 
 ## useful stuff
 If you need some starting stuff with gameservers, i leaked a gameserver thats good :)
